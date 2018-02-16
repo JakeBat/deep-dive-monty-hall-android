@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">MontyHall</string>
+  <string name="win_text">You won a car!!!</string>
+  <string name="lose_text">Enjoy your new pet goat!</string>
 </resources>
