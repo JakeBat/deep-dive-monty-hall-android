@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
   }
 
   /**
-   * the <setupGame> method establishes the rules for the game including the way the doors are framed
+   * the setupGame method establishes the rules for the game including the way the doors are framed
    * and the result that occurs when each door is selected individually.
    */
   private void setupGame(){

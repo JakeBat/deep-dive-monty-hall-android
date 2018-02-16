@@ -19,7 +19,7 @@ public class Door {
   /**
    * the Door method defines a Contains parameter based put in and defines the state parameter as
    * closed by default.
-   * @param contains
+   * @param contains contains
    */
   public Door(Contains contains) {
     this.contains = contains;
@@ -35,7 +35,7 @@ public class Door {
 
   /**
    * the getState method gets the state of the door (open or closed).
-   * @return
+   * @return returns state
    */
   public State getState() {
     return state;
@@ -43,7 +43,7 @@ public class Door {
 
   /**
    * the getContains method gets whatever the selected door contains (car or goat).
-   * @return
+   * @return returns Contains
    */
   public Contains getContains() {
     return contains;
