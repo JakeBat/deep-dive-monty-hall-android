@@ -99,6 +99,10 @@ public class Game {
         continue;
 
       }
+      if (door.getState() == State.OPEN) {
+        continue;
+      }
+
       switch_door = door;
     }
 
